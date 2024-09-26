@@ -1,7 +1,7 @@
 "use strict";
 
-let input_Profile_Name = "Sad Mia";
-let input_Profile_Image = "images/profile/profile.jpg";
+let input_Profile_Name = "Nguyễn Minh Tiến";
+let input_Profile_Image = "images/profile/profile1.png";
 
 let input_profile_link = "https://facebook.com/sadmia.page"
 
@@ -30,7 +30,7 @@ let Input_post_img_8 = "images/post/8.jpg";
 let Input_post_img_9 = "images/post/9.jpg";
 let Input_post_img_10 = "images/post/10.jpg";
 let Input_post_img_11 = "images/post/11.jpg";
-let Input_post_img_12 = "images/post/12.jpg";
+let Input_post_img_12 = "images/post/13.png";
 
 
 
